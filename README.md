@@ -178,8 +178,5 @@ Para verificar que el sistema funciona correctamente, realiza las siguientes pru
 
 ## Autor
 
-Proyecto desarrollado como parte de la evaluación parcial de Programación Web Backend.
+Proyecto desarrollado como parte de la evaluación parcial de Programación Web Backend por SANTIAGO RODRIGUEZ
 
-## Licencia
-
-Este proyecto se proporciona tal como está, sin garantías de ningún tipo.
